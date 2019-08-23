@@ -1,5 +1,3 @@
-# AWG
-Home for the Credential Engine Applications Work Group.
 # LearnCredentialEngine
 Learn Credential Engine is a project geared toward developing courses, videos, and guidance to enhance learning about all aspects of the Credential Engine project, especially for publishing to the and consuming from the Credential Registry.
 
